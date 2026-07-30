@@ -1,0 +1,278 @@
+{
+  "empresa": "Horizonte Viajes",
+  "fecha_actualizacion": "2026-07-30",
+  "moneda": "USD",
+  "nota_general": "Tarifas sujetas a disponibilidad al momento de reservar.",
+  "paquetes": [
+    {
+      "id": "BAR-01",
+      "nombre": "Bariloche: Lagos y Montañas",
+      "destino": {
+        "ciudad": "San Carlos de Bariloche",
+        "provincia": "Río Negro",
+        "pais": "Argentina"
+      },
+      "duracion": {
+        "dias": 6,
+        "noches": 5
+      },
+      "hoteleria": {
+        "hotel": "Hotel Lago Azul",
+        "categoria": "4 estrellas",
+        "habitacion": "Doble estándar con vista parcial al lago"
+      },
+      "comidas": {
+        "regimen": "Media pensión",
+        "incluye": [
+          "5 desayunos buffet",
+          "5 cenas sin bebidas"
+        ]
+      },
+      "transporte": {
+        "incluye": [
+          "Pasaje aéreo ida y vuelta desde Buenos Aires",
+          "Traslados aeropuerto-hotel-aeropuerto"
+        ]
+      },
+      "excursiones": [
+        "Circuito Chico",
+        "Cerro Campanario",
+        "Navegación a Isla Victoria y Bosque de Arrayanes"
+      ],
+      "precio": {
+        "importe": 980,
+        "moneda": "USD",
+        "unidad": "por persona",
+        "modalidad": "base doble"
+      },
+      "no_incluye": [
+        "Bebidas",
+        "Almuerzos",
+        "Tasas de parques nacionales",
+        "Gastos personales"
+      ],
+      "condiciones": {
+        "anticipo_porcentaje": 30,
+        "saldo": "Hasta 15 días antes de la salida",
+        "salidas": "Viernes de agosto a noviembre de 2026"
+      }
+    },
+    {
+      "id": "MDZ-02",
+      "nombre": "Mendoza: Ruta del Vino",
+      "destino": {
+        "ciudad": "Mendoza",
+        "provincia": "Mendoza",
+        "pais": "Argentina"
+      },
+      "duracion": {
+        "dias": 5,
+        "noches": 4
+      },
+      "hoteleria": {
+        "hotel": "Gran Hotel Vendimia",
+        "categoria": "4 estrellas",
+        "habitacion": "Doble superior"
+      },
+      "comidas": {
+        "regimen": "Desayuno",
+        "incluye": [
+          "4 desayunos buffet",
+          "1 almuerzo de pasos con maridaje en bodega"
+        ]
+      },
+      "transporte": {
+        "incluye": [
+          "Bus semicama ida y vuelta desde Buenos Aires",
+          "Traslados terminal-hotel-terminal",
+          "Transporte para las excursiones incluidas"
+        ]
+      },
+      "excursiones": [
+        "Visita y degustación en dos bodegas de Luján de Cuyo",
+        "Recorrido por fábrica de aceite de oliva",
+        "Alta Montaña con visita a Puente del Inca"
+      ],
+      "precio": {
+        "importe": 720,
+        "moneda": "USD",
+        "unidad": "por persona",
+        "modalidad": "base doble"
+      },
+      "no_incluye": [
+        "Cenas",
+        "Bebidas fuera del almuerzo indicado",
+        "Excursiones opcionales",
+        "Gastos personales"
+      ],
+      "condiciones": {
+        "anticipo_porcentaje": 25,
+        "saldo": "Hasta 10 días antes de la salida",
+        "salidas": "Segundo jueves de cada mes hasta diciembre de 2026"
+      }
+    },
+    {
+      "id": "IGR-03",
+      "nombre": "Iguazú: Naturaleza Total",
+      "destino": {
+        "ciudad": "Puerto Iguazú",
+        "provincia": "Misiones",
+        "pais": "Argentina"
+      },
+      "duracion": {
+        "dias": 4,
+        "noches": 3
+      },
+      "hoteleria": {
+        "hotel": "Selva Misionera Resort",
+        "categoria": "4 estrellas",
+        "habitacion": "Doble estándar con balcón"
+      },
+      "comidas": {
+        "regimen": "Desayuno",
+        "incluye": [
+          "3 desayunos buffet",
+          "1 cena de bienvenida sin bebidas"
+        ]
+      },
+      "transporte": {
+        "incluye": [
+          "Pasaje aéreo ida y vuelta desde Buenos Aires",
+          "Traslados aeropuerto-hotel-aeropuerto",
+          "Traslados a las excursiones incluidas"
+        ]
+      },
+      "excursiones": [
+        "Cataratas del Iguazú, lado argentino",
+        "Cataratas del Iguazú, lado brasileño",
+        "Hito Tres Fronteras"
+      ],
+      "precio": {
+        "importe": 850,
+        "moneda": "USD",
+        "unidad": "por persona",
+        "modalidad": "base doble"
+      },
+      "no_incluye": [
+        "Entradas a los parques nacionales",
+        "Tasa ecoturística",
+        "Almuerzos",
+        "Documentación migratoria"
+      ],
+      "condiciones": {
+        "anticipo_porcentaje": 30,
+        "saldo": "Hasta 20 días antes de la salida",
+        "salidas": "Todos los miércoles de septiembre a diciembre de 2026"
+      }
+    },
+    {
+      "id": "SLA-04",
+      "nombre": "Salta: Valles y Tradición",
+      "destino": {
+        "ciudad": "Salta",
+        "provincia": "Salta",
+        "pais": "Argentina"
+      },
+      "duracion": {
+        "dias": 7,
+        "noches": 6
+      },
+      "hoteleria": {
+        "hotel": "Hotel Colonial del Norte",
+        "categoria": "3 estrellas superior",
+        "habitacion": "Doble estándar"
+      },
+      "comidas": {
+        "regimen": "Media pensión",
+        "incluye": [
+          "6 desayunos",
+          "4 cenas regionales sin bebidas"
+        ]
+      },
+      "transporte": {
+        "incluye": [
+          "Pasaje aéreo ida y vuelta desde Buenos Aires",
+          "Traslados aeropuerto-hotel-aeropuerto",
+          "Vehículo turístico para excursiones"
+        ]
+      },
+      "excursiones": [
+        "City tour por Salta",
+        "Quebrada de Humahuaca",
+        "Cafayate y Quebrada de las Conchas",
+        "Cachi por Cuesta del Obispo"
+      ],
+      "precio": {
+        "importe": 1150,
+        "moneda": "USD",
+        "unidad": "por persona",
+        "modalidad": "base doble"
+      },
+      "no_incluye": [
+        "Almuerzos",
+        "Dos cenas libres",
+        "Entradas a museos",
+        "Propinas"
+      ],
+      "condiciones": {
+        "anticipo_porcentaje": 35,
+        "saldo": "Hasta 20 días antes de la salida",
+        "salidas": "Primer y tercer sábado de cada mes hasta noviembre de 2026"
+      }
+    },
+    {
+      "id": "USH-05",
+      "nombre": "Ushuaia: Fin del Mundo",
+      "destino": {
+        "ciudad": "Ushuaia",
+        "provincia": "Tierra del Fuego",
+        "pais": "Argentina"
+      },
+      "duracion": {
+        "dias": 6,
+        "noches": 5
+      },
+      "hoteleria": {
+        "hotel": "Hotel Canal Beagle",
+        "categoria": "4 estrellas",
+        "habitacion": "Doble estándar"
+      },
+      "comidas": {
+        "regimen": "Desayuno",
+        "incluye": [
+          "5 desayunos buffet",
+          "1 cena fueguina de despedida sin bebidas"
+        ]
+      },
+      "transporte": {
+        "incluye": [
+          "Pasaje aéreo ida y vuelta desde Buenos Aires",
+          "Traslados aeropuerto-hotel-aeropuerto",
+          "Traslados terrestres para las excursiones incluidas"
+        ]
+      },
+      "excursiones": [
+        "Parque Nacional Tierra del Fuego",
+        "Navegación por el Canal Beagle",
+        "Lagos Escondido y Fagnano"
+      ],
+      "precio": {
+        "importe": 1420,
+        "moneda": "USD",
+        "unidad": "por persona",
+        "modalidad": "base doble"
+      },
+      "no_incluye": [
+        "Entrada al Parque Nacional Tierra del Fuego",
+        "Tasa portuaria",
+        "Almuerzos",
+        "Ropa para nieve"
+      ],
+      "condiciones": {
+        "anticipo_porcentaje": 40,
+        "saldo": "Hasta 30 días antes de la salida",
+        "salidas": "Domingos de octubre a diciembre de 2026"
+      }
+    }
+  ]
+}
