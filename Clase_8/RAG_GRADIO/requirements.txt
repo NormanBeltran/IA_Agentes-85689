@@ -1,0 +1,8 @@
+gradio
+groq
+psycopg[binary]
+pgvector
+sentence-transformers
+pypdf
+python-dotenv
+numpy
