@@ -1,0 +1,23 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: rag_postgres
+
+    environment:
+      POSTGRES_USER: raguser
+      POSTGRES_PASSWORD: ragpass
+      POSTGRES_DB: ragdb
+
+    ports:
+      # Puerto de la PC : Puerto interno del contenedor
+      - "5433:5432"
+
+    volumes:
+      # Persiste los datos de PostgreSQL
+      - postgres_data:/var/lib/postgresql/data
+
+      # Se ejecuta automáticamente la primera vez que se crea la BD
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  postgres_data:
